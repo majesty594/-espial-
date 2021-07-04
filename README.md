@@ -7,7 +7,9 @@ WALKTHROUGH
 LIBRARIES USED
 ------------------
 Opencv
+
 Numpy 
+
 Imutils
 
 HOW TO RUN?
