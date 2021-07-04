@@ -1,8 +1,10 @@
-# -espial-
+# espial
 An object detector using YOLO
 
 WALKTHROUGH
 --------------
+
+https://www.loom.com/share/06d3b2a8a0bd4dbd92b760b8401e39b4
 
 LIBRARIES USED
 ------------------
@@ -18,4 +20,4 @@ HOW TO RUN?
 
 2.Install Opencv ,Numpy and Imutlis
 
-3.run python real_time_object_detection.py
+3.Run python real_time_object_detection.py
