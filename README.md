@@ -1,10 +1,13 @@
 # espial
-An object detector using YOLO
+An object detector using OpenCV
 
 WALKTHROUGH
 --------------
 
-https://www.loom.com/share/06d3b2a8a0bd4dbd92b760b8401e39b4
+
+https://www.loom.com/share/81ceae64ff6c42afa6d11a9299584d5a
+
+
 
 LIBRARIES USED
 ------------------
